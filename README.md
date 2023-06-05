@@ -8,4 +8,4 @@ O "Jogo da Forca" é um aplicativo Android que permite que os usuários joguem o
 O aplicativo oferece diversas categorias de palavras, como comidas, cidades, cores, cozinha, natureza,  e frutas, para que os usuários possam selecionar um tema e começar a jogar imediatamente. Além disso, os usuários também têm a opção de criar um jogo personalizado, digitando a palavra e a dica da forca.
 
 Descrição Técnica
-Este aplicativo foi desenvolvido em Kotlin utilizando o Android Studio. As palavras e dicas da forca são pré-salvas em um arquivo Json que pode ser encontrado aqui.
+Este aplicativo foi desenvolvido em Java utilizando o Android Studio. As palavras e dicas da forca são pré-salvas em um arquivo Json que pode ser encontrado aqui.
