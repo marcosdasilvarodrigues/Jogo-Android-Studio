@@ -10,4 +10,4 @@ O aplicativo oferece diversas categorias de palavras, como comidas, cidades, cor
 Descrição Técnica
 Este aplicativo foi desenvolvido em Java utilizando o Android Studio. As palavras e dicas da forca são pré-salvas em um arquivo Json que pode ser encontrado aqui.
 
-![logo](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/bbcbc6b5-b6cf-4a41-af52-a8834506157d)
+
