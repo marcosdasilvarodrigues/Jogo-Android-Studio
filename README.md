@@ -100,7 +100,7 @@ ForcaController possui uma variável de instância privada forca
 
 
 
-caminho Erro; br/ufpb/dcx/appalpha/control/service/MockThemes.java
+caminho Erro: br/ufpb/dcx/appalpha/control/service/MockThemes.java
 
 
 
@@ -120,7 +120,7 @@ Métodos de acesso (getNome e get Pontuação) para obter os valores dos atribut
 A anotação @Override indica que o método compareTo está substituindo o método da interface Comparable.
 O método compareTo compara o objeto atual (this) com outro objeto Record passado como parâmetro. Assim ele retorna um valor negativo (-1) se a pontuação do objeto atual for maior que a pontuação do outro objeto, retorna um valor positivo (1) se for menor e retorna zero se as pontuações forem iguais. Essa classe pode ser usada para armazenar registros de pontuação em uma lista e ordená-los com base na pontuação.
 
-Caminho; java/br/ufpb/dcx/appalpha/model/bean/Record.java
+Caminho: java/br/ufpb/dcx/appalpha/model/bean/Record.java
 
 
 
@@ -140,8 +140,16 @@ Dica
 
 ![dica 02](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/7c7f7463-7e0a-4131-927f-1edcbe1822c8)
 
+A classe MockThemes implementa a interface Runnable e é usada para simular a inserção de temas e desafios dentro do banco de dados ou seja jogo de forca
+Ela possui um atributo privado do tipo `ThemeSqlService` para interagir com o banco de dados.
+O construtor recebe um contexto e inicializa o serviço.
+A classe substitui o método "run" da interface "Runnable". Dentro do método "run", ele chama o método "insert" do objeto "service" com uma nova instância da classe "Theme" como primeiro argumento
+O método "insert" é chamado com uma lista de objetos "Challenge" como segundo argumento.
+Esses objetos são criados com diferentes nomes relacionados a alimentos ("arroz", "peixe", "batata", etc.), e assim como o objeto "Theme", eles também possuem IDs de recursos para um arquivo raw e um drawable associados a cada desafio.
 
-br/ufpb/dcx/appalpha/control/service/MockThemes.java
+
+
+Caminho: br/ufpb/dcx/appalpha/control/service/MockThemes.java
 
 
 
