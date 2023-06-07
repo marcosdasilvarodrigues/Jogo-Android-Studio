@@ -25,12 +25,16 @@ Você também pode jogar Jogo da Forca por categoria, no qual cada tema
 conta com uma quantidade de palavras disponíveis para ser jogada. A cada jogo há
 uma palavra diferente.
 • A palavra oculta está relacionada com a dica “Cidade”;
+
 • O tamanho da palavra oculta (quantidade de letras) está representado pelos
 traços;
+
 • Clique em uma das letras. Se a letra existir na palavra, a letra será exibida.
 Caso contrário, seu bonequinho ficará cada vez mais preso;
+
 • A cada erro uma parte do corpo do bonequinho é desenhada: cabeça, tronco,
 braço direito, braço esquerdo, perna direita e perna esquerda;
+
 • O objetivo é descobrir a palavra oculta antes que o bonequinho fique
 desenhado.
 
