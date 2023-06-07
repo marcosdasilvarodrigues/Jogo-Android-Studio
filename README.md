@@ -102,7 +102,9 @@ caminho Erro; br/ufpb/dcx/appalpha/control/service/MockThemes.java
 
 
 
+
 Pontuação
+
 ![Pontuação tela 1](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/e59dae50-6fb3-4340-8a3c-22690fd101f1)
 
 
