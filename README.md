@@ -87,6 +87,8 @@ palavra.
 
 Funcionalidades
 
+Erro da letra
+
 ![Erro tela 1](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/89380153-e8fc-45d7-89d3-1db4ebdc34ac)
 
 
