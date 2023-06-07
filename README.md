@@ -109,6 +109,12 @@ caminho Erro; br/ufpb/dcx/appalpha/control/service/MockThemes.java
 
 ![pontuação tela 2 - Copia](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/40e47aab-a123-40a0-8647-623426ce79fe)
 
+A classe Record tem dois atributos privados: nome (do tipo String) e pontuacao (do tipo double),
+que representa o nome do jogador e a pontuação obtida. Ela possui um construtor que recebe o nome e a pontuação e os atribui aos atributos correspondentes.
+Métodos de acesso (getNome e get Pontuação) para obter os valores dos atributos nome e pontuação.
+A anotação @Override indica que o método compareTo está substituindo o método da interface Comparable.
+O método compareTo compara o objeto atual (this) com outro objeto Record passado como parâmetro. Assim ele retorna um valor negativo (-1) se a pontuação do objeto atual for maior que a pontuação do outro objeto, retorna um valor positivo (1) se for menor e retorna zero se as pontuações forem iguais. Essa classe pode ser usada para armazenar registros de pontuação em uma lista e ordená-los com base na pontuação.
+
 
 
 
