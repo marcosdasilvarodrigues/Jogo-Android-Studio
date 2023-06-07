@@ -93,6 +93,8 @@ Erro da letra
 
 ![Erro tela 1](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/89380153-e8fc-45d7-89d3-1db4ebdc34ac)
 
+![Erro tela 2 - Copia](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/177900ea-dff9-46e1-b67f-134d895a62d7)
+
 ForcaController possui uma variável de instância privada forca
 
 
