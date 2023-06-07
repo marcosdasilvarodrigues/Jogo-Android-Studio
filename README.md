@@ -1,5 +1,7 @@
 Título do Jogo: (Jogo da Forca)
+
 Docente: Robson Keemps
+
 Discente: Marcos da Silva Rodrigues, Leidiane Cruzeiro, Raiane Costa.
 
 Plataforma em que será lançada:
