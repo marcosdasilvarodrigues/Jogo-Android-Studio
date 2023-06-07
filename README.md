@@ -91,11 +91,7 @@ Erro da letra
 
 ![Erro tela 1](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/89380153-e8fc-45d7-89d3-1db4ebdc34ac)
 
-
-
-
-
-
+ForcaController possui uma variável de instância privada forca
 
 
 
@@ -105,6 +101,11 @@ caminho Erro; br/ufpb/dcx/appalpha/control/service/MockThemes.java
 
 
 
+![Pontuação tela 1](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/e59dae50-6fb3-4340-8a3c-22690fd101f1)
+
+
+
+![pontuação tela 2 - Copia](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/40e47aab-a123-40a0-8647-623426ce79fe)
 
 
 
@@ -113,16 +114,12 @@ caminho Erro; br/ufpb/dcx/appalpha/control/service/MockThemes.java
 
 
 
-Jogo da forca - Desenvolvido em Java para Android
-
-Jogo com funcionalidades basicas, troca de imagem e contagem de erros e acertos. Tema relacionado.
 
 
-JOGO DA FORCA
-O "Jogo da Forca" é um aplicativo Android que permite que os usuários joguem o clássico jogo de adivinhação.
-O aplicativo oferece diversas categorias de palavras, como comidas, cidades, cores, cozinha, natureza,  e frutas, para que os usuários possam selecionar um tema e começar a jogar imediatamente. Além disso, os usuários também têm a opção de criar um jogo personalizado, digitando a palavra e a dica da forca.
 
-Descrição Técnica
-Este aplicativo foi desenvolvido em Java utilizando o Android Studio. As palavras e dicas da forca são pré-salvas em um arquivo Json que pode ser encontrado aqui.
+
+
+
+
 
 
