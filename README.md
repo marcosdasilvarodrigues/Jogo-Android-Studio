@@ -100,7 +100,7 @@ ForcaController possui uma variável de instância privada forca
 
 
 
-caminho Erro: br/ufpb/dcx/appalpha/control/service/MockThemes.java
+caminho Erro: br/ufpb/dcx/appalpha/control/ForcaController.java
 
 
 
