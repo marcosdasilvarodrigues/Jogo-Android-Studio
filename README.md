@@ -24,6 +24,7 @@ Como jogar:
 Você também pode jogar Jogo da Forca por categoria, no qual cada tema
 conta com uma quantidade de palavras disponíveis para ser jogada. A cada jogo há
 uma palavra diferente.
+
 • A palavra oculta está relacionada com a dica “Cidade”;
 
 • O tamanho da palavra oculta (quantidade de letras) está representado pelos
@@ -47,12 +48,18 @@ selecionada.
 
 No Resumo do Conceito Jogo é onde nós detalharemos vários pontos da
 história e da jogabilidade, como:
+
  Diferentes níveis de dificuldade;
+
  Pontuação, que será dada pelo nível de dificuldade e tempo para resolução da
 palavra-chave, onde o sistema classifica os melhores;
+
  Possibilidade de pausar a qualquer momento o jogo;
+
  Ranking com os melhores jogadores;
+
  Verificação do tempo que o jogador demora pra resolver a palavra-chave;
+
  Sistema completo de ajuda.
 
 Aonde o seu jogo se passa?
