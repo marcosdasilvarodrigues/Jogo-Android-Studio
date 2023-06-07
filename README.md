@@ -126,6 +126,8 @@ Caminho; java/br/ufpb/dcx/appalpha/model/bean/Record.java
 
 
 
+Dica
+
 
 ![Dica 01](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/81e40465-7fc2-4efd-acb8-1b2323c530ef)
 
