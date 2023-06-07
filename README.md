@@ -126,8 +126,15 @@ Caminho; java/br/ufpb/dcx/appalpha/model/bean/Record.java
 
 
 
+![Dica 01](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/81e40465-7fc2-4efd-acb8-1b2323c530ef)
 
 
+
+
+![dica 02](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/7c7f7463-7e0a-4131-927f-1edcbe1822c8)
+
+
+br/ufpb/dcx/appalpha/control/service/MockThemes.java
 
 
 
