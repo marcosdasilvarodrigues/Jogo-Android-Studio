@@ -95,8 +95,23 @@ Erro da letra
 
 ![Erro tela 2 - Copia](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/177900ea-dff9-46e1-b67f-134d895a62d7)
 
-ForcaController possui uma variável de instância privada forca
+A classe (ForcaController) gerencia a exibição da imagem da forca no jogo, conforme os erros do jogador. Ela recebe um ImageView no construtor e possui o método (mudaForca) para atualizar a imagem com base nos erros. Essa classe controla a exibição da forca no jogo.
 
+O ImageView, como o próprio nome diz, é um componente que nos permite trabalhar com imagens.
+
+
+
+![26](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/c0265668-d36b-4041-902b-c7eb01f2f919)
+
+![25](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/2501fa8b-6c4e-48fb-9b6d-d527347674d5)
+
+![24](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/ae7d307c-2227-4234-b4c5-2f0aa3361d05)
+
+![23](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/2d03194e-f512-4be0-8226-ad245084b603)
+
+![22](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/135fec3c-9922-4092-a5e3-76408fc1e55d)
+
+![21](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/203f8428-2f6f-4623-b8da-542f338e5341)
 
 
 
