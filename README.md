@@ -101,6 +101,8 @@ O ImageView, como o próprio nome diz, é um componente que nos permite trabalha
 
 switch, funciona Se um desses valores for igual ao valor da variável, o bloco de código do case em questão será executado.
 
+setImageResource, define a imagem correta utilizando o método (setImageResource) da ImageView forca.
+
 
 
 ![26](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/c0265668-d36b-4041-902b-c7eb01f2f919)
