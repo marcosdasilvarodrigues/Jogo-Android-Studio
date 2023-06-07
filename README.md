@@ -99,6 +99,8 @@ A classe (ForcaController) gerencia a exibição da imagem da forca no jogo, con
 
 O ImageView, como o próprio nome diz, é um componente que nos permite trabalhar com imagens.
 
+switch, funciona Se um desses valores for igual ao valor da variável, o bloco de código do case em questão será executado.
+
 
 
 ![26](https://github.com/marcosdasilvarodrigues/Jogo-Android-Studio/assets/105816659/c0265668-d36b-4041-902b-c7eb01f2f919)
